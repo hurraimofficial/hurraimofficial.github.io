@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hurraimofficial.smartsalary",
+      "sha256_cert_fingerprints": ["6A:25:B9:85:4C:5A:A9:27:F4:AE:AE:93:1F:B5:33:80:94:00:5F:E1:AA:B0:EC:A1:16:0C:01:70:AF:93:37:DA"]
+    }
+  }
+]
